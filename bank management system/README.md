@@ -47,10 +47,15 @@ A robust, secure, and fully functional desktop application simulating a real-wor
    Right-click on Login.java and select Run File.
 
 #Project Screenshots:
-1. Login Screen: <img width="781" height="373" alt="image" src="https://github.com/user-attachments/assets/594a9bc7-3c0b-400e-a4ce-89789c9536d5" />
-2. Sign-Up Form: <img width="606" height="483" alt="image" src="https://github.com/user-attachments/assets/b84e4ee9-02e7-491b-88c5-7d26e26009ab" />
-3. Main Dashboard: <img width="592" height="295" alt="image" src="https://github.com/user-attachments/assets/540c6440-118d-4887-b749-7031347bdd65" />
-4. Cash Deposit: <img width="672" height="253" alt="image" src="https://github.com/user-attachments/assets/6bc48987-114e-465e-8534-f55b56fa996c" />
-5. Cash Withdrawl: <img width="580" height="292" alt="image" src="https://github.com/user-attachments/assets/d4df7088-17cb-4e37-aa27-814a67595df3" />
-6. Mini-Statement Form: <img width="350" height="422" alt="image" src="https://github.com/user-attachments/assets/5a8e8a90-34fe-4f63-9a4c-c9dcbf534e8d" />
-7. 
+1. **Login Screen:**
+   <img width="781" height="373" alt="image" src="https://github.com/user-attachments/assets/594a9bc7-3c0b-400e-a4ce-89789c9536d5" />
+2. **Sign-Up Form:**
+   <img width="606" height="483" alt="image" src="https://github.com/user-attachments/assets/b84e4ee9-02e7-491b-88c5-7d26e26009ab" />
+3. **Main Dashboard:**
+   <img width="592" height="295" alt="image" src="https://github.com/user-attachments/assets/540c6440-118d-4887-b749-7031347bdd65" />
+4. **Cash Deposit:**
+   <img width="672" height="253" alt="image" src="https://github.com/user-attachments/assets/6bc48987-114e-465e-8534-f55b56fa996c" />
+5. **Cash Withdrawl:**
+    <img width="580" height="292" alt="image" src="https://github.com/user-attachments/assets/d4df7088-17cb-4e37-aa27-814a67595df3" />
+6. **Mini-Statement Form:**
+    <img width="350" height="422" alt="image" src="https://github.com/user-attachments/assets/5a8e8a90-34fe-4f63-9a4c-c9dcbf534e8d" />
